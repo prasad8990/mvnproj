@@ -10,7 +10,7 @@
         <h1>Hello New Java EE Continuous Delivery!</h1>
         <h1> Hi this is after modificaition </h1> 
         <h1> Hi this is after modificaition1 </h1> 
-        <h1> Hi this is after modificaition2</h1> 
+        <h1> Hi all is doing jenkins </h1> 
         GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
     </body>
 </html>
